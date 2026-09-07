@@ -5,7 +5,4 @@
 <img width="118" height="32" alt="youtube" src="https://github.com/user-attachments/assets/a94643ba-6ab8-46b5-aed5-94655cd94235" />
 
 
-<img
-  src="https://dcbadge.limes.pink/api/shield/endless1123"
-  alt="write a description depending on your usage"
-/>
+<img src="https://dcbadge.limes.pink/api/shield/endless1123"/>
