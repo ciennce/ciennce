@@ -48,6 +48,7 @@ https://capsule-render.vercel.app/
 </h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height= "40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height= "40"/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
   </a>
