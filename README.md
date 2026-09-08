@@ -1,8 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
-
-### Trainee IT specialist for application development
-
+Trainee IT specialist for application development
 
 <h3>My recent activity:</h3>
 
