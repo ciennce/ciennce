@@ -4,7 +4,7 @@
 ### Trainee IT specialist for application development
 
 
-## <h3>My recent activity:</h3>
+<h3>My recent activity:</h3>
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ciennce)](https://github.com/ciennce/github-contribution-stats/)
 
