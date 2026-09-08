@@ -9,6 +9,7 @@
 
 <!---
 [(https://capsule-render.vercel.app/api?)](https://capsule-render.vercel.app/api?)
+https://capsule-render.vercel.app/
 -->
 
 <h3 align="left">Connect with me:</h3>
