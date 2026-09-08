@@ -1,7 +1,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
 
-<h1>Trainee IT specialist for application development</h1>
+<h1>
+  Trainee IT specialist for application development
+</h1>
 
 
 ![](https://devimg.vercel.app/github/profile/ciennce)
@@ -38,9 +40,19 @@ https://capsule-render.vercel.app/
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
-<a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></p>
+<h3 align="left">
+  Tools:
+</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
+    </a>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
 
