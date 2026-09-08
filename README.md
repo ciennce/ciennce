@@ -50,6 +50,7 @@ https://capsule-render.vercel.app/
   <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer">
     <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
+        <a href="https://skillicons.dev/icons?i=latex" width="40" height= "40"/></a>
     </a>
   </a>
 </p>
