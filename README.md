@@ -3,6 +3,8 @@
 
 <h1>Trainee IT specialist for application development</h1>
 
+
+![](https://devimg.vercel.app/github/profile/ciennce)
 ![](https://devimg.vercel.app/github/languages/ciennce)
 
 <h3 align="left">Connect with me:</h3>
