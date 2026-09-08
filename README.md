@@ -1,6 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
-## Trainee IT specialist for application development
+
+<h1>Trainee IT specialist for application development</h1>
 
 <h3>My recent activity:</h3>
 
