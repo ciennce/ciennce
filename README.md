@@ -39,6 +39,7 @@ https://capsule-render.vercel.app/
       <img src="https://skillicons.dev/icons?i=latex" width="40" height= "40"/>
       <img src="https://skillicons.dev/icons?i=html" width="40" height= "40"/>
       <img src="https://skillicons.dev/icons?i=css" width="40" height= "40"/>
+      <img src="https://skillicons.dev/icons?i=lua" width="40" height= "40"/>
     </a>
   </a>
 </p>
