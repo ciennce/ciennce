@@ -69,7 +69,7 @@ https://capsule-render.vercel.app/
 <a href="https://music.youtube.com/watch?v=p3CyfNMo714&list=PLXTYRSUqJuak"><img src="https://yt3.googleusercontent.com/Z2_8fA8-84_Ek0iorzHjzwYxBtcE-EV-OtVwSUeGegAQEXXGA3fWSDhRkK7cIy3j4vvt0uxc8IYFdwZr=w544-h544-l90-rj" width="70" height="70"></a>
 <a href="https://music.youtube.com/watch?v=90cFGw5_nfU&list=PLXTYRSUqJuak"><img src="https://yt3.googleusercontent.com/2sLw5UBQo57BCdr6sAUrOXZyZOXHjqL5fOS58UTwyzTwNhnimh3-khy-LmbOaKjDo41XtDTnWKRjED4=w544-h544-l90-rj" width="70" height="70"></a>
 <a href="https://music.youtube.com/watch?v=mRRBZIy87ow&list=PLuFlkA4vyXZzp6H9xwlc95gly5bpso2bH"><img src="https://yt3.googleusercontent.com/UPSkqMMzYTprDsWZyqD2NU0kCGLqNuSgTtPNkSLuMFgTfravjKEOzpP9A5Z3_Ugd97RtierSoXIV7lkkGA=w544-h544-l90-rj" width="70" height="70"></a>
-
+<a href="https://music.youtube.com/watch?v=f6QFfmwFT3k&list=PLXJlZOD-5BYs"><img src="https://yt3.googleusercontent.com/3lJWrgfa-eyfDp-QYjf2f1zPRbr09kUuQYvJHWfmbnpOjSVWQEHGBPaNg7oxao224JHaKhBQgOhwvM2s=w544-h544-l90-rj" width="70" height="70"></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
 
