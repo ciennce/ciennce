@@ -37,6 +37,7 @@ https://capsule-render.vercel.app/
     <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
       <img src="https://skillicons.dev/icons?i=latex" width="40" height= "40"/>
+      <img src="https://skillicons.dev/icons?i=html" width="40" height= "40"/>
     </a>
   </a>
 </p>
