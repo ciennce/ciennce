@@ -3,7 +3,7 @@
 ### Trainee IT specialist for application development
 
 ![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
-![ciennce github-trophies](https://stats.hyo.dev/api/github-trophies?login=ciennce)
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
