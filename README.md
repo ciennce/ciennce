@@ -9,6 +9,8 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
+![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +27,6 @@
 [![Timeline graph](https://images.repography.com/159967951/ciennce/ciennce/recent-activity/kpwGuBe2vS5XIFyCvq1tvpe6ioCDiXJ2utk_x3-Qqb8/9N62W0dsO7VrVEaxVyOOE_mEWruzodkZS669MryA52g_timeline.svg)](https://github.com/ciennce/ciennce/commits)
 [![Top contributors](https://images.repography.com/159967951/ciennce/ciennce/recent-activity/kpwGuBe2vS5XIFyCvq1tvpe6ioCDiXJ2utk_x3-Qqb8/9N62W0dsO7VrVEaxVyOOE_mEWruzodkZS669MryA52g_users.svg)](https://github.com/ciennce/ciennce/graphs/contributors)
 
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
