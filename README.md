@@ -60,6 +60,9 @@ https://capsule-render.vercel.app/
   </a>
 </p>
 
+ ![What Am I Listening](https://yt3.googleusercontent.com/MMlxrtX5OIFdAIE4pZraXpstambKgPssST7snt5pp1Xh1dmEM1OqdTH-DTqFJHPITLVFcz5LVRJ5guKQ=w544-h544-l90-rj)
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
 
 
