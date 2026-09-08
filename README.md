@@ -60,6 +60,6 @@ https://capsule-render.vercel.app/
   </a>
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
 
 
