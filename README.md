@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
 
 <h1>Trainee IT specialist for application development</h1>
-![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ciennce)](https://github.com/ciennce/github-contribution-stats/)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ciennce)](https://github.com/ciennce/github-contribution-stats/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
