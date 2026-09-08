@@ -18,6 +18,6 @@
 
 
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/159967951/ciennce/ciennce/recent-activity/kpwGuBe2vS5XIFyCvq1tvpe6ioCDiXJ2utk_x3-Qqb8/9N62W0dsO7VrVEaxVyOOE_mEWruzodkZS669MryA52g_badge.svg)](https://repography.com)
+## <h3>My recent activity:</h3>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
