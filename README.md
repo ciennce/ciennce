@@ -5,7 +5,9 @@
 
 ![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
 
+## <h3>My recent activity:</h3>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +20,4 @@
 
 
 
-## <h3>My recent activity:</h3>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
