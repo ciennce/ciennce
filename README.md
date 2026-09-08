@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning **C#**
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
-{"rankPoints":{"commits":1,"contributedToNotOwnerRepositories":10,"contributedToOwnRepositories":1,"createdRepositories":1,"directStars":3.5,"followers":1,"indirectStars":1,"issues":1,"pullRequests":1,"pullRequestsToAnotherRepositories":5,"commitsToMyRepositories":1,"commitsToAnotherRepositories":10,"contributedTo":1},"userStats":{"commitsToMyRepositories":138,"lastFetch":"2026-09-08T07:10:22.8324487+00:00","login":"ciennce","name":"\uD835\uDD88\uD835\uDD8E\uD835\uDD8A\uD835\uDD93\uD835\uDD93\uD835\uDD88\uD835\uDD8A","pullRequests":0,"commits":138,"commitsToAnotherRepositories":0,"pullRequestsToAnotherRepositories":0,"issues":0,"createdRepositories":22,"directStars":6,"indirectStars":0,"contributedTo":17,"contributedToOwnRepositories":17,"contributedToNotOwnerRepositories":0,"followers":4},"level":"❣️","score":357}
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
