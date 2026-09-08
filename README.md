@@ -65,6 +65,9 @@ https://capsule-render.vercel.app/
   My favourite songs:
 </h3>
 <a href="https://music.youtube.com/watch?v=DMJgiky90pE"><img src="https://yt3.googleusercontent.com/MMlxrtX5OIFdAIE4pZraXpstambKgPssST7snt5pp1Xh1dmEM1OqdTH-DTqFJHPITLVFcz5LVRJ5guKQ=w544-h544-l90-rj" width="70" height="70"></a>
+<a href="https://music.youtube.com/watch?v=ozllPih3hOk&list=LM"><img src="https://yt3.googleusercontent.com/VXMfXfjVQtVR-FzyFTn-TUx-nXQ6B4BVleLaRE2Yjc_DzxkkcSWwbYyQMcCgBP3nfxHRWdMTfH8Wx-Q=w544-h544-l90-rj" width="70" height="70"></a>
+<a href="https://music.youtube.com/watch?v=DMJgiky90pE"><img src="https://yt3.googleusercontent.com/MMlxrtX5OIFdAIE4pZraXpstambKgPssST7snt5pp1Xh1dmEM1OqdTH-DTqFJHPITLVFcz5LVRJ5guKQ=w544-h544-l90-rj" width="70" height="70"></a>
+<a href="https://music.youtube.com/watch?v=DMJgiky90pE"><img src="https://yt3.googleusercontent.com/MMlxrtX5OIFdAIE4pZraXpstambKgPssST7snt5pp1Xh1dmEM1OqdTH-DTqFJHPITLVFcz5LVRJ5guKQ=w544-h544-l90-rj" width="70" height="70"></a>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
