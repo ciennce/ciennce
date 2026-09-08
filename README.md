@@ -7,12 +7,8 @@
 ![](https://devimg.vercel.app/github/profile/ciennce)
 ![](https://devimg.vercel.app/github/languages/ciennce)
 
-[comment]: <> ([This is a comment, it will not be included](https://capsule-render.vercel.app/api?))
-[//]: # (This may be the most platform independent comment)
-
 <!---
-your comment goes here
-and here
+[(https://capsule-render.vercel.app/api?)](https://capsule-render.vercel.app/api?)
 -->
 
 <h3 align="left">Connect with me:</h3>
