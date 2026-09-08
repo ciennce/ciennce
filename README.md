@@ -1,16 +1,14 @@
 # Hi 👋, I'm Maximilian Leon Hoppe
 
 ### Trainee IT specialist for application development
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
-
-- 🔭 I'm currently working on **OOP**
-
-- 🌱 I'm currently learning **C#**
-
-
 
 ![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
 ![ciennce github-trophies](https://stats.hyo.dev/api/github-trophies?login=ciennce)
+
+
+
+
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +26,6 @@
 [![Timeline graph](https://images.repography.com/159967951/ciennce/ciennce/recent-activity/kpwGuBe2vS5XIFyCvq1tvpe6ioCDiXJ2utk_x3-Qqb8/9N62W0dsO7VrVEaxVyOOE_mEWruzodkZS669MryA52g_timeline.svg)](https://github.com/ciennce/ciennce/commits)
 [![Top contributors](https://images.repography.com/159967951/ciennce/ciennce/recent-activity/kpwGuBe2vS5XIFyCvq1tvpe6ioCDiXJ2utk_x3-Qqb8/9N62W0dsO7VrVEaxVyOOE_mEWruzodkZS669MryA52g_users.svg)](https://github.com/ciennce/ciennce/graphs/contributors)
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<h3>Test:</h3>
 
-<!-- END YOUTUBE-CARDS -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
