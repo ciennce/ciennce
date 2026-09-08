@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100&text=Ciennce&fontAlign=80&fontAlignY=40&color=gradient">
 
 <h1>Trainee IT specialist for application development</h1>
 
