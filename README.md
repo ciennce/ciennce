@@ -8,8 +8,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
 
-<img src= "https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&bannerText=Hi+%F0%9F%91%8B%2C+I%27m+Maximilian+Leon+Hoppe&bannerColor=%2324395c&color=%235a5858&backgroundColor=%23f2f2f2" >
-
 
 
 <h3 align="left">Connect with me:</h3>
