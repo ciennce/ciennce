@@ -3,11 +3,8 @@
 
 ### Trainee IT specialist for application development
 
-![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
 
 ## <h3>My recent activity:</h3>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ciennce)](https://github.com/ciennce/github-contribution-stats/)
 
