@@ -54,6 +54,8 @@ https://capsule-render.vercel.app/
   </a>
 </p>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/LaTex" target="_blank" rel="noreferrer">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&textBg=false&descAlignY=53">
 
 
