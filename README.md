@@ -2,7 +2,6 @@
 
 ### Trainee IT specialist for application development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciennce&label=Profile views&color=0e75b6&style=flat" alt="[ciennce](https://github.com/ciennce/)" /> </p>
 
 - 🔭 I'm currently working on **OOP**
 
