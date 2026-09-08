@@ -7,6 +7,8 @@
 ![](https://devimg.vercel.app/github/profile/ciennce)
 ![](https://devimg.vercel.app/github/languages/ciennce)
 
+[comment]: <> ([This is a comment, it will not be included](https://capsule-render.vercel.app/api?))
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="ciennce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ciennce" height="30" width="40" /></a>
