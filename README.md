@@ -1,15 +1,16 @@
 # Hi 👋, I'm Maximilian Leon Hoppe
 
 ### Trainee IT specialist for application development
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
 
 - 🔭 I'm currently working on **OOP**
 
 - 🌱 I'm currently learning **C#**
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ciennce?cardType=github&theme=graywhite&fontFamily=Quattrocento&preferLogin=false)](https://git.io/awesome-stats-card)
+
 
 ![ciennce github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=ciennce)
+![ciennce github-trophies](https://stats.hyo.dev/api/github-trophies?login=ciennce)
 
 
 <h3 align="left">Connect with me:</h3>
